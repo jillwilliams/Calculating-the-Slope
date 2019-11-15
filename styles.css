@@ -14,7 +14,7 @@ h1 {
     width: 18%;
     height: auto;
     border: 1px black solid;
-    outline: 1px red solid;
+    outline: 1px yellowgreen solid;
 
 
 }
@@ -22,14 +22,14 @@ h1 {
     width: 18%;
     height: auto;
     border: 1px black solid;
-    outline: 1px red solid;
+    outline: 1px yellowgreen solid;
 
 }
 #img10, #img11, #img12, #img13, #img14, #img15, #img16 {
     width: 20%;
     height: auto;
     border: 1px black solid;
-    outline: 1px red solid;
+    outline: 1px yellowgreen solid;
 
 }
 #img17, #img18, #img19, #img20, #img21 {
@@ -38,7 +38,7 @@ h1 {
     margin-left: 25%;
     margin-right: 25%;
     border: 1px black solid;
-    outline: 1px red solid;
+    outline: 1px yellowgreen solid;
 }
 #myBtn {
     width: 12%;
@@ -49,7 +49,7 @@ h1 {
     font-size: 1.2rem;
     color: black;
     border: 1px black solid;
-    outline: 1px red solid;
+    outline: 1px yellowgreen solid;
     margin-top: 25px;
 }
 #demo, #demo2, #demo3, #demo4, #demo5 {
@@ -62,7 +62,7 @@ h1 {
     text-align: center;
     color: black;
     border: 1px black solid;
-    outline: 1px red solid;
+    outline: 1px yellowgreen solid;
     background-color: white;
     padding: 5px;
 }
