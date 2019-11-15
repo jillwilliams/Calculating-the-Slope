@@ -18,3 +18,17 @@ const myProblem3 = () => {
 const myCalc3 = () => {
     document.getElementById("demo3").innerHTML = myProblem3();
 };
+
+const myProblem4 = () => {
+    return "3/7";
+};
+const myCalc4 = () => {
+    document.getElementById("demo4").innerHTML = myProblem4();
+};
+
+const myProblem5 = () => {
+    return "-9/8";
+};
+const myCalc5 = () => {
+    document.getElementById("demo5").innerHTML = myProblem5();
+};

@@ -32,7 +32,7 @@ h1 {
     outline: 1px red solid;
 
 }
-#img17, #img18, #img19 {
+#img17, #img18, #img19, #img20, #img21 {
     width: 50%;
     height: auto;
     margin-left: 25%;
@@ -52,7 +52,7 @@ h1 {
     outline: 1px red solid;
     margin-top: 25px;
 }
-#demo, #demo2, #demo3 {
+#demo, #demo2, #demo3, #demo4, #demo5 {
     width: 11%;
     height: 40px;
     margin-left: 44.5%;
